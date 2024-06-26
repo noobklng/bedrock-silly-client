@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href="https://horion.download"><img src="https://raw.githubusercontent.com/horionclient/Horion/master/.github/horion-banner.png" width="600" alt="Horion" /></a>
+      <a href="https://horion.download"><img src="[https://raw.githubusercontent.com/horionclient/Horion/master/.github/horion-banner.png](https://media.discordapp.net/attachments/1049750986719236177/1255486950622892054/spinning-duck.gif?ex=667d4ed6&is=667bfd56&hm=281418601bfc6fdf4ccdfce3baa48d7dc013eee169d0c8ea3cb8f0d504b113ee&=)" width="600" alt="Horion" /></a>
     </p>
   <br />
   <p>
