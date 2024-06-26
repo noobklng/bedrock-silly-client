@@ -4,22 +4,12 @@
 </p>
 
 <h1 align="center">silly</h1>
-<p align="center">the silliest FABRIC hack client!!</p>
-<p align="center">this was made with meteor client</p>
-
-    <b>Horion</b> is a Minecraft: Bedrock Edition utility mod designed to enhance gameplay. We do not take responsibility in anything done with this utility mod.
-If you want to contribute to this project, feel free to fork this repository and submit a pull request.
-  </p>
-</div>
+<p align="center">the silliest bedrock hack client!!</p>
+<p align="center">this was made with horion client</p>
 
 ## Contributing
-To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
-We will then check your pull request and accept/deny it.
-If you are clueless about what you could start with, [we collected some issues for you](https://github.com/horionclient/Horion/contribute).
-More Information on setting everything up can be found in the **[wiki](https://github.com/horionclient/Horion/wiki "wiki")**!
-If you need any help with understanding our code, join the [official Discord server](https://horion.download/discord)
-
-## Licensing
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-You are allowed to fork the project and distribute it, if you give credit. You may not sell any code protected by the license.
-Not all source files are protected by this license - Some third party libraries (Chakra, DX11) may be under different copyright.
+to contribute to horion, **fork their repository**, edit their code, and **submit a pull request to them**
+they will then check your pull request and accept/deny it
+[horion issues](https://github.com/horionclient/Horion/contribute).
+**[horion wiki](https://github.com/horionclient/Horion/wiki "wiki")**!
+[official horion Discord server](https://horion.download/discord)
